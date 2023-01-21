@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Rai</h1>
-<h3 align="center">A passionate frontend developer from India pursuing BE in Computer Science and Engineering from Chandigarh University</h3>
+<h3 align="center">A passionate developer from India pursuing BE in Computer Science and Engineering from Chandigarh University</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrai-56&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrai-56" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vivekrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekrai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-rai-3a1a851b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekrai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
