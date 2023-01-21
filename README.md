@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Rai</h1>
 <h3 align="center">A passionate frontend developer from India pursuing BE in Computer Science and Engineering from Chandigarh University</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=nWQ%2fU5NK&id=204BC0BB2C0F87EC70A8DE52ABA73FC96FAD6414&thid=OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1360%2f1*IRGHmiGsa16stedQvIaZfw.gif&exph=428&expw=680&q=animated+developer+gif&simid=607999822855619240&FORM=IRPRST&ck=EDC978BA6E584AF2585C50DD7B22DC8E&selectedIndex=9">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrai-56&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrai-56" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
